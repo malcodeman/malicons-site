@@ -3954,10 +3954,10 @@ magic-string@^0.22.4:
   dependencies:
     vlq "^0.2.2"
 
-malicons@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/malicons/-/malicons-1.0.0.tgz#6edfb54e41ff941f95b87cc5c420d40388199dd6"
-  integrity sha512-9FvcZVdGtHajlxOThtHw+T4U19DyEi8Vws6QxnyqBoTU90wok/rVynZjXCO6dELq6SNqv2CYM+u+TpuQtbSXcA==
+malicons@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/malicons/-/malicons-1.0.1.tgz#5cddc184870f9b68bdfba174a24b46c2f7ea7e3b"
+  integrity sha512-U/ze6PUUUx/X9q0lemKCssUm4jtIU29XB9sBgOHVYpsTHqPzM11mi1K/FRvpaWKggLx/NYZcpVEEYRFwnWrCAA==
   dependencies:
     prop-types "^15.7.2"
     react "^16.12.0"

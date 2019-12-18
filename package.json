@@ -22,7 +22,7 @@
     "postcss-modules": "^1.4.1"
   },
   "dependencies": {
-    "malicons": "^1.0.0",
+    "malicons": "^1.0.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
